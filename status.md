@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Christian Riedl
 
 #### Your section leader's name
 
-TODO
+Tamara katic
 
 #### Project title
 
-TODO
+Stock Analysis tool
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Our main goals for the code has been accomplished, now we will attempt to do our extra golas since we finished the main part of the project. An extra part for example is moving the code to a website but as said before this is since we have time and therefore are not ruched anymore.
 
 #### What have you not done for your project yet?
 
-TODO
+Our core goals have been accompliushed, we will now attempt extra add-ons
 
 #### What problems, if any, have you encountered?
 
-TODO
+The largest issue was getting the stock anlyser to read multiple stocks, rather than just one. This however has now been resolved.
